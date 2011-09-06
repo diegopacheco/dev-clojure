@@ -1,0 +1,47 @@
+Escolham 3 funcoes aki: http://clojure.org/cheatsheet
+
+Diego Pacheco
+ - assoc
+ - subs
+ - dosync
+
+Alexandre Poletto
+ - max
+ - min
+ - rand
+
+Jose
+ - count 
+ - get 
+ - trim 
+ - format
+
+Andre
+ - contains
+ - empty
+ - for
+
+Jackson
+ - loop
+ - identical
+ - if-not
+
+Vanessa
+ - quot
+ - filter
+ - drop-while
+
+Rafael Salermo
+ - list
+ - map
+ - set
+
+Jeferson
+  - ==
+  - blank
+  - source
+
+Roberto
+  - rest (List)
+  - nth (Vectors)
+  - rationalize

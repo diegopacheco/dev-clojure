@@ -1,0 +1,27 @@
+Funcoes Aprendidas no Primeiro Encontro(05/09/2011)
+---------------------------------------------------
+
+- dec         => http://clojure.github.com/clojure/clojure.core-api.html#clojure.core/dec
+- inc         => http://clojure.github.com/clojure/clojure.core-api.html#clojure.core/inc  
+- +           => http://clojure.github.com/clojure/clojure.core-api.html#clojure.core/+  
+- -           => http://clojure.github.com/clojure/clojure.core-api.html#clojure.core/-
+- *           => http://clojure.github.com/clojure/clojure.core-api.html#clojure.core/*
+- apply       => http://clojure.github.com/clojure/clojure.core-api.html#clojure.core/apply
+- defn        => http://clojure.github.com/clojure/clojure.core-api.html#clojure.core/defn
+- defstruct   => http://clojure.github.com/clojure/clojure.core-api.html#clojure.core/defstruct
+- struct      => http://clojure.github.com/clojure/clojure.core-api.html#clojure.core/struct
+- def         => http://clojure.org/special_forms#def
+- doc         => http://clojure.github.com/clojure/clojure.core-api.html#clojure.core/doc
+- println     => http://clojure.github.com/clojure/clojure.core-api.html#clojure.core/println
+
+Exercicio 1
+-----------
+
+Faz uma funcao chamada de 'calc' que receba 3 parametros. Este exercicio deve ser 
+feito utilizando Clojure(1.2 ou 1.3) e DEVE ser feito no REPL. Conforme
+o simples exemplo de uso(simples caso de testes) a baixo:
+
+(calc "+" 4 5)  ;; Retorno deve ser: 9
+(calc "-" 5 1)  ;; Retorno deve ser: 4
+(calc "*" 2 3)  ;; Retorno deve ser: 6
+(calc "/" 27 3) ;; Retorno deve ser: 9

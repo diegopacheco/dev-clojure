@@ -1,0 +1,52 @@
+DEV Clojure
+-----------
+
+Purpose:
+--------
+
+This group is focused on learning Clojure. Our goal is create a small Java BANK system that calls
+some clojure functions to do some math processing with huge concurrency using STM.
+
+WHY Clojure ?
+-------------
+
+- Java has lots and lots synatx obesity
+- OOP is not the holly grail and don't awnser all questions
+- Clojure works really well with concurrency, read STM
+- Clojure you have one function for 10 types of data, java you have 10 to 10
+- Clojure is Functional, like LISP BUT much better
+- Clojrue Runs on the JVM, so you can use all java frameworks like Spring, Hibernate, etc...
+- Work with Clojrue will make you a better java developer
+- Open your mind, new paradigms
+- Clojure enables you think more about the problemn rather than in the syntax, frameworks, JEE, other heavy craps...
+- Twitter is using Clojure in production
+- Horoku supports Clojures at the CLOUD => http://blog.heroku.com/archives/2011/7/5/clojure_on_heroku/
+
+More... Read it here: http://clojure.org/rationale
+
+Frequency:
+----------
+
+2 in 2 weeks, 2h per meetup, mondays 15:00 to 17:00.
+
+CREW:
+-----
+
+Facilitator   : @diego_pacheco
+Co-Facilitator: @alepoletto
+Members       : @jefersonm, @jpcuervo, @cyber_jso, @Andre_Mayer, @beto_zi, @vanessarspoa, Rafael Salermo                
+
+Resources:
+----------
+
+OFFICAL Site    => http://clojure.org/
+Cheat Sheet     => http://clojure.org/cheatsheet
+Videos          => http://blip.tv/clojure
+REPL            => http://en.wikibooks.org/wiki/Clojure_Programming/Getting_Started
+Eclipse Plugin  => http://code.google.com/p/counterclockwise/
+
+(@diego_pacheco github clojure CODE)
+https://github.com/diegopacheco/Diego-Pacheco-Sandbox/tree/master/scripts/clojure
+
+(@diego_pacheco del.ici.us Clojure Links)
+http://www.delicious.com/search?p=clojure&chk=&fr=del_icio_us&lc=1&atags=&rtags=&context=userposts|diego.pacheco|
