@@ -44,9 +44,43 @@ Cheat Sheet     => http://clojure.org/cheatsheet
 Videos          => http://blip.tv/clojure
 REPL            => http://en.wikibooks.org/wiki/Clojure_Programming/Getting_Started
 Eclipse Plugin  => http://code.google.com/p/counterclockwise/
+STM             => http://java.ociweb.com/mark/stm/article.html
 
 (@diego_pacheco github clojure CODE)
 https://github.com/diegopacheco/Diego-Pacheco-Sandbox/tree/master/scripts/clojure
 
 (@diego_pacheco del.ici.us Clojure Links)
 http://www.delicious.com/search?p=clojure&chk=&fr=del_icio_us&lc=1&atags=&rtags=&context=userposts|diego.pacheco|
+
+Github Clojure Projects
+https://github.com/languages/Clojure
+
+ECO-SYSTEM:
+-----------
+
+Ring (Http wrapper that runs on jetty - Web development)
+https://github.com/mmcgrana/ring
+
+compojure (Web Development Framework in Clojure)
+https://github.com/weavejester/compojure
+
+ClojureQL (databse queries through elegant clojure expressions)
+http://www.clojureql.org/
+
+fountain-jdbc(Clojure wrapper for Spring's JDBC)
+https://bitbucket.org/kumarshantanu/fountain-jdbc/src
+
+leiningen (Build - based on ANT)
+https://github.com/stuarthalloway/leiningen
+
+hiccup (HTML rander)
+https://github.com/weavejester/hiccup
+
+Enlive (HTML / XML templating )
+https://github.com/cgrand/enlive/wiki/
+
+Midje (Testing)
+https://github.com/marick/Midje
+
+clojurescript (Clojure to JS compiler - Run Clojure in JavaScript)
+https://github.com/clojure/clojurescript
