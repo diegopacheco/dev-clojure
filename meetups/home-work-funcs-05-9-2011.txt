@@ -1,47 +1,47 @@
 Escolham 3 funcoes aki: http://clojure.org/cheatsheet
 
-Diego Pacheco
+Diego Pacheco -> http://www.slideshare.net/diego.pacheco/3-little-clojure-functions
  - assoc
  - subs
  - dosync
 
-Alexandre Poletto
+Alexandre Poletto -> http://www.slideshare.net/AlexandrePoletto/clojure-ldc
  - max
  - min
  - rand
 
-Jose
+Jose -> http://www.slideshare.net/jeporto/funcoes-clojure
  - count 
  - get 
  - trim 
  - format
 
-Andre
+Andre -> http://www.slideshare.net/andre_mayer/clojure-shooter
  - contains
  - empty
  - for
 
-Jackson
+Jackson -> http://www.slideshare.net/cyber_jso/clojure-functions
  - loop
  - identical
  - if-not
 
-Vanessa
+Jeferson -> http://www.slideshare.net/jefersonm/clojure-func1-presentation
+  - ==
+  - blank
+  - source
+ 
+Vanessa -> N/A
  - quot
  - filter
  - drop-while
 
-Rafael Salermo
+Rafael Salermo -> N/A
  - list
  - map
  - set
 
-Jeferson
-  - ==
-  - blank
-  - source
-
-Roberto
+Roberto -> N/A
   - rest (List)
   - nth (Vectors)
   - rationalize
