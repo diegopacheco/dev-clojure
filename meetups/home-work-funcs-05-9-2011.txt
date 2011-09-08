@@ -30,7 +30,12 @@ Jeferson -> http://www.slideshare.net/jefersonm/clojure-func1-presentation
   - ==
   - blank
   - source
- 
+
+Christophe Marchal -> http://www.slideshare.net/toff63/clojure-lightning-talk
+  - union
+  - difference
+  - intersection
+  
 Vanessa -> N/A
  - quot
  - filter
@@ -40,7 +45,7 @@ Rafael Salermo -> N/A
  - list
  - map
  - set
-
+ 
 Roberto -> N/A
   - rest (List)
   - nth (Vectors)
