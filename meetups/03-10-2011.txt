@@ -7,4 +7,5 @@ http://www.slideshare.net/toff63/clojure-3-new-funcions
 @jpcurvo(capitalize,trimr, triml)
 http://www.slideshare.net/jeporto/clojure-functions-9528526
 
-
+@cyber_jso(odd, even, dotimes)
+http://www.slideshare.net/cyber_jso/clojure-functions-examples
