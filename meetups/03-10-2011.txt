@@ -1,0 +1,10 @@
+@diego_pacheco (repeat, seq, lazy-seq)
+http://www.slideshare.net/diego.pacheco/3-little-clojure-functions-ii
+
+@toff63(sort, sort-by, reverse)
+http://www.slideshare.net/toff63/clojure-3-new-funcions
+
+@jpcurvo(capitalize,trimr, triml)
+http://www.slideshare.net/jeporto/clojure-functions-9528526
+
+

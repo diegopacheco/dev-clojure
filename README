@@ -5,10 +5,24 @@ Whats Next ?
 ------------
 
 - Next Meetup: 
-    - 03/10/2011 - 15:00 to 17:00
+    - 10/10/2011 - 15:00 to 17:00
 - What is about ? 
+	- Present 5 functions(each member)
+	- Show function car-tax integration with Java
+	- Show 10 problems solved on 4Clojure (http://www.4clojure.com/) - share 2 
+	     - (except Double Down & Nth Element)
+
+History
+-------
+
+- 03/10/2011 - 15:00 to 17:00
+- What was about ? 
 	- Present 3 functions(each member), show function car-tax & bank-* implementations        
 	- Clojure Randori DOJO
+	
+- 22/09/2011 - 15:00 to 17:00
+- What was about ? 
+	- Present 3 functions(each member), show function calc
 
 Purpose:
 --------
@@ -43,7 +57,7 @@ CREW:
 
 Facilitator   : @diego_pacheco
 Co-Facilitator: @alepoletto
-Members       : @jefersonm, @jpcuervo, @cyber_jso, @Andre_Mayer, @beto_zi, @vanessarspoa, Rafael Salermo                
+Members       : @jefersonm, @jpcuervo, @cyber_jso, @Andre_Mayer, @beto_zi, Rafael Salermo                
 
 PHOTOS:
 -------

@@ -1,0 +1,23 @@
+Possitivo
+ - Clojure
+ - Novas Funcoes
+ - Mais Dicas de como fazer (mindset Clojure)
+ - Melhoria um pouco no mindset
+ - Randori foi legal, nunca tinhamos feito
+ - Temas bem definidos(sabe o que tem que fazer e quando)
+ - Temas são bons(forçam a estudar Clojre)
+ - Tema do 4Clojure
+ - Pagina do grupo no github(ajudou bastante)
+ - Diversos recursos para Clojure disponiveis(boa documentação)
+ - Indicação dos livros boa
+ - Infra-estrutura esta muito boa(sala, projetor)
+
+A melhorar
+ - Muita gente naum fez o bank-* e nem o Car-Tax
+ - Melhorar o mindset Clojure(Muito java BS ainda)
+ - Não fazer no ultimo dia depois das 8 (domingo)
+ - Desorganização com os temas (pessoas com o tema)
+ - Confusão com as funcoes
+ - Pedir mais ajuda(mas não no ultimo dia a noite)
+ - Pessoas remotas não é muito legal(melhor do que não participar)
+ - O Diego esta fazendo tudo(o grupo precisa discutir, conversar, mais participação)
