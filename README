@@ -81,6 +81,9 @@ Eclipse Plugin  => http://code.google.com/p/counterclockwise/
 STM             => http://java.ociweb.com/mark/stm/article.html
                    http://www.azulsystems.com/blog/cliff/2008-05-27-clojure-stms-vs-locks 
 
+Concurrency Patterns: Java, Scala, and Clojure
+http://fupeg.blogspot.com/2009/10/concurrency-patterns-java-scala-and.html				   
+				   
 (@diego_pacheco github clojure CODE)
 https://github.com/diegopacheco/Diego-Pacheco-Sandbox/tree/master/scripts/clojure
 
