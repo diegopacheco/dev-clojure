@@ -9,3 +9,6 @@ http://www.slideshare.net/jeporto/clojure-functions-9528526
 
 @cyber_jso(odd, even, dotimes)
 http://www.slideshare.net/cyber_jso/clojure-functions-examples
+
+@jefersonm(rem, mod, replace)
+http://www.slideshare.net/jefersonm/clojure-ldc-presentation-2
