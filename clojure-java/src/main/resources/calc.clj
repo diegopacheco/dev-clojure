@@ -1,0 +1,5 @@
+(ns user) 
+(defn calc-sum [va vb] (+ va vb))
+(defn calc-sub [va vb] (- va vb))
+(defn calc-div [va vb] (/ va vb))
+(defn calc-mul [va vb] (* va vb))
