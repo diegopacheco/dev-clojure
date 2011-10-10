@@ -133,3 +133,6 @@
 -  get-proxy-class 
 -  construct-proxy 
 -  init-proxy
+-  future
+-  future-call
+-  future-done?
