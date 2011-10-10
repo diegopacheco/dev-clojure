@@ -139,3 +139,6 @@
 -  memfn
 -  gensym
 -  frequencies
+-  make-array
+-  alength
+-  pos?
