@@ -142,3 +142,4 @@
 -  make-array
 -  alength
 -  pos?
+-  swap!
