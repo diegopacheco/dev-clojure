@@ -136,3 +136,6 @@
 -  future
 -  future-call
 -  future-done?
+-  memfn
+-  gensym
+-  frequencies
