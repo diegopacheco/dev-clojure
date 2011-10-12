@@ -1,0 +1,1 @@
+(defn sub[b e] (reverse     ((fn [b e l]      (if (= b e)           l          (recur (inc b) e (conj l b))      )   ) b e ()  ) ))(prn (sub 1 4))

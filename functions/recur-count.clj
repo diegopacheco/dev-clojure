@@ -1,0 +1,1 @@
+(defn countdown [c]	( 	  (fn [c n] 		  (if (empty? c)			 n			 (recur (drop 1 c) (inc n) )		  )	  )	  c 0	))(prn (countdown [1 2]))(prn (countdown [1 2 3 3 4 5 6 7 8 0]))(prn (countdown '(1 2)))(prn (countdown {:a :b}))

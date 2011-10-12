@@ -143,3 +143,9 @@
 -  alength
 -  pos?
 -  swap!
+-  require 
+-  import
+-  loaded-libs
+-  keyword
+-  symbol 
+-  symbol?

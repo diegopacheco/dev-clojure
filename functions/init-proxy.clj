@@ -1,0 +1,1 @@
+(def p1	(proxy 		[java.util.ArrayList] 		[] 	))(prn p1)(prn (. p1 toString))	(init-proxy p1 {"toString" (fn [a] "hey clojure rocks")})(prn (. p1 toString))

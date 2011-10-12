@@ -1,0 +1,1 @@
+;;;; http://blog.jayfields.com/2010/07/clojure-destructuring.html;;(prn    (= 	   [2 4] 	   (let [[a b c d e f g] (range)] [c e])	))
