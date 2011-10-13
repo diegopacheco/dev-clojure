@@ -107,6 +107,14 @@ http://www.delicious.com/search?p=clojure&chk=&fr=del_icio_us&lc=1&atags=&rtags=
 Github Clojure Projects
 https://github.com/languages/Clojure
 
+Blogs:
+------
+
+http://planet.clojure.in/
+http://clojure.blogspot.com/
+http://blog.jayfields.com/
+http://thinkrelevance.com/blog/tags/clojure.html
+
 ECO-SYSTEM:
 -----------
 
@@ -136,3 +144,12 @@ https://github.com/marick/Midje
 
 clojurescript (Clojure to JS compiler - Run Clojure in JavaScript)
 https://github.com/clojure/clojurescript
+
+scripturian (Template Engine)
+http://threecrickets.com/scripturian/
+
+clj-webdriver (Selenium-WebDriver Support for Clojure)
+https://github.com/semperos/clj-webdriver
+
+incanter (Clojure-based, R-like statistical computing and graphics environment for the JVM)
+https://github.com/liebke/incanter
