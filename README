@@ -153,3 +153,6 @@ https://github.com/semperos/clj-webdriver
 
 incanter (Clojure-based, R-like statistical computing and graphics environment for the JVM)
 https://github.com/liebke/incanter
+
+clamq (Clamq is a Clojure adpater for interacting with message queues - ActiveMQ)
+https://github.com/sbtourist/clamq
