@@ -4,18 +4,54 @@ DEV Clojure
 Whats Next ?
 ------------
 
-- 2 Meetups for Nomever + Final Presentation in December
-
 - Next Meetup: 
-    - 24/10/2011 - 15:00 to 17:00
+    - 14/1/2011 - 15:00 to 17:00
 - What is about ? 
+	- 3 new Functions from clojure.core(for each member)
+	- Do 10 4Clojure Solutions – Share 3
+	   - Do don't simple functions
+	   - You must do a function that you feel proud
+	   - Dont do functions that the other already presented
+	- Lighting Talks on Clojure Eco-System (5 min eahc presentation - To be recorded)
+	   - 1. Diego    - Ring
+	   - 2. Poletto  - hiccup 
+	   - 3. Frances  - compojure  
+       - 4. Jeferson - clojure-twitter
+       - 5. Jackson  - Midje
+       - 6. Jose     - ClojureQL
+       - 7. Shooter  - fountain-jdb
+       - 8. Salermo  - enlive  	
+
+- FINAL Meetup: 
+    - 28/1/2011 - 15:00 to 17:00
+- What is about ? 
+	- Lighting Talks on Clojure Eco-System (5 min eahc presentation - To be recorded)
+	   - 1. Diego    - leiningen 
+	   - 2. Poletto  - congomongo
+	   - 3. Frances  - borneo
+       - 4. Jeferson - noir
+       - 5. Jackson  - clojurescript
+       - 6. Jose     - korma
+       - 7. Shooter  - clj-http
+       - 8. Salermo  - ???
+	- 1h Fishbowl Conversation
+       - Is Clojrue ready ?
+       - It worth while studyng and using?
+       - Clojure Future? Clojure Adoption?
+       - How hard is functional programing for oop developers?
+       - Is FP the Future? How is the market/it industry now?	   
+	- 10-20min Retrospective
+       - wrap up good and things to improve on the group and LDC.	
+	   
+History
+-------
+
+- 24/10/2011 - 15:00 to 17:00
+- What was about ? 
 	- Present 3 functions(each member)
 	- Show function (bank-transfer acc1 acc2 40)
 	- Show 10 problems solved on 4Clojure (http://www.4clojure.com/) - Share 5 
 	- Java Calls Clojure(Interpreted) - pass a struct by parameter
-
-History
--------
 
 - 10/10/2011 - 15:00 to 17:00
 - What was about ? 
@@ -124,6 +160,9 @@ https://github.com/mmcgrana/ring
 compojure (Web Development Framework in Clojure)
 https://github.com/weavejester/compojure
 
+noir
+http://www.webnoir.org/
+
 ClojureQL (databse queries through elegant clojure expressions)
 http://www.clojureql.org/
 
@@ -156,3 +195,54 @@ https://github.com/liebke/incanter
 
 clamq (Clamq is a Clojure adpater for interacting with message queues - ActiveMQ)
 https://github.com/sbtourist/clamq
+
+borneo (Neo4J)
+https://github.com/wagjo/borneo
+
+clj-http (Http invoker)
+https://github.com/dakrone/clj-http
+
+Congomongo (MongoDB)
+https://github.com/aboekhoff/congomongo
+
+Overtone (music)
+https://github.com/overtone/overtone
+
+Polynome
+https://github.com/samaaron/polynome
+
+clj-time (Data/Time)
+https://github.com/jmatt/clj-time
+
+classlojure
+https://github.com/lancepantz/classlojure
+
+Clojure Twitter
+https://github.com/GunioRobot/clojure-twitter
+
+Tokyo-Cabinet
+https://github.com/jashmenn/tokyo-cabinet
+
+zilch (0MQ)
+https://github.com/bjconlan/zilch
+
+congomongo-mq
+https://github.com/daveray/congomongo-mq
+
+postal
+https://github.com/sritchie/postal
+
+Korma
+https://github.com/ithayer/Korma
+
+appengine-clj
+https://github.com/vgeshel/appengine-clj
+
+clj-rpc
+https://github.com/zhuangxm/clj-rpc
+
+redis-clojure
+https://github.com/insane/redis-clojure
+
+monotony(Schedulle)
+https://github.com/aredington/monotony
