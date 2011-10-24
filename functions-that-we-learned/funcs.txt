@@ -161,3 +161,6 @@
 -  agent
 -  send
 -  add-watch
+-  with-open 
+-  file
+-  delete-file
