@@ -149,3 +149,12 @@
 -  keyword
 -  symbol 
 -  symbol?
+-  areduce
+-  with-precision
+-  with-redefs
+-  slurp
+-  zipper
+-  spit
+-  reset! 
+-  compare-and-set!
+-  commute
