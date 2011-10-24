@@ -9,13 +9,13 @@ Whats Next ?
 - What is about ? 
 	- 3 new Functions from clojure.core(for each member)
 	- Do 10 4Clojure Solutions – Share 3
-	   - Do don't simple functions
-	   - You must do a function that you feel proud
-	   - Dont do functions that the other already presented
-	- Lighting Talks on Clojure Eco-System (5 min eahc presentation - To be recorded)
-	   - 1. Diego    - Ring
-	   - 2. Poletto  - hiccup 
-	   - 3. Frances  - compojure  
+       - Do don't simple functions
+       - You must do a function that you feel proud
+       - Dont do functions that the other already presented
+    - Lighting Talks on Clojure Eco-System (5 min eahc presentation - To be recorded)
+       - 1. Diego    - Ring
+       - 2. Poletto  - hiccup 
+       - 3. Frances  - compojure  
        - 4. Jeferson - clojure-twitter
        - 5. Jackson  - Midje
        - 6. Jose     - ClojureQL
@@ -25,16 +25,16 @@ Whats Next ?
 - FINAL Meetup: 
     - 28/11/2011 - 15:00 to 17:00
 - What is about ? 
-	- Lighting Talks on Clojure Eco-System (5 min eahc presentation - To be recorded)
-	   - 1. Diego    - leiningen 
-	   - 2. Poletto  - congomongo
-	   - 3. Frances  - borneo
+    - Lighting Talks on Clojure Eco-System (5 min eahc presentation - To be recorded)
+       - 1. Diego    - leiningen 
+       - 2. Poletto  - congomongo
+       - 3. Frances  - borneo
        - 4. Jeferson - noir
        - 5. Jackson  - clojurescript
        - 6. Jose     - korma
        - 7. Shooter  - clj-http
        - 8. Salermo  - ???
-	- 1h Fishbowl Conversation
+    - 1h Fishbowl Conversation
        - Is Clojrue ready ?
        - It worth while studyng and using?
        - Clojure Future? Clojure Adoption?
