@@ -158,3 +158,6 @@
 -  reset! 
 -  compare-and-set!
 -  commute
+-  agent
+-  send
+-  add-watch
