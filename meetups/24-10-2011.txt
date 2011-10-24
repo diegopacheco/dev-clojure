@@ -1,0 +1,14 @@
+@diego_pacheco
+http://www.slideshare.net/diego.pacheco/3-little-clojure-functions-4
+
+@toff63
+http://www.slideshare.net/toff63/clojure-lightning-talk-9856393
+
+@jefersonm
+http://www.slideshare.net/jefersonm/clojure-func-presentation-4
+
+@alepoletto
+http://www.slideshare.net/jeporto/three-clojure-functions
+
+@cyber_jso
+http://www.slideshare.net/cyber_jso/clojure-functions-4
