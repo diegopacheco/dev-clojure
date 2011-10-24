@@ -164,3 +164,6 @@
 -  with-open 
 -  file
 -  delete-file
+-  hash-set 
+-  sorted-set 
+-  sorted-set-by
