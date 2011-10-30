@@ -172,6 +172,12 @@ https://bitbucket.org/kumarshantanu/fountain-jdbc/src
 leiningen (Build - based on ANT)
 https://github.com/stuarthalloway/leiningen
 
+FleetDB (NOSQL Database)
+http://fleetdb.org/
+
+Conjure (A Rails like framework for Clojure)
+https://github.com/macourtney/Conjure
+
 hiccup (HTML rander)
 https://github.com/weavejester/hiccup
 
