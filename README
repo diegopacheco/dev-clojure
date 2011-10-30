@@ -11,7 +11,7 @@ Whats Next ?
 	- Do 10 4Clojure Solutions – Share 3
        - Do don't simple functions
        - You must do a function that you feel proud
-       - Dont do functions that the other already presented
+       - Dont do functions that the others already presented
     - Lighting Talks on Clojure Eco-System (5 min eahc presentation - To be recorded)
        - 1. Diego    - Ring
        - 2. Poletto  - hiccup 
@@ -177,6 +177,9 @@ http://fleetdb.org/
 
 Conjure (A Rails like framework for Clojure)
 https://github.com/macourtney/Conjure
+
+clj-json (Fast JSON encoding and decoding for Clojure via the Jackson library)
+https://github.com/mmcgrana/clj-json
 
 hiccup (HTML rander)
 https://github.com/weavejester/hiccup
