@@ -167,3 +167,7 @@
 -  hash-set 
 -  sorted-set 
 -  sorted-set-by
+-  trampoline
+-  delay
+-  delay?
+-  find-ns
