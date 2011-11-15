@@ -84,9 +84,9 @@ History
        - Dont do functions that the others already presented
     - Lighting Talks on Clojure Eco-System (5 min eahc presentation - To be recorded)
       - 1. Diego   - leiningen [http://www.slideshare.net/diego.pacheco/leiningen]
-      - 2. Diego   - Ring      [http://www.slideshare.net/diego.pacheco/ring-10170582]   
+      - 2. Diego   - Ring      [http://vimeo.com/32166018 - http://www.slideshare.net/diego.pacheco/ring-10170582]   
       - 3. Poletto - hiccup    [http://vimeo.com/32153393 - http://www.slideshare.net/AlexandrePoletto/lt-hiccup]
-      - 4. Frances - Compojure [http://vimeo.com/32152366 - http://www.slideshare.net/toff63/compojure]     
+      - 4. Frances - Compojure [http://vimeo.com/32163435 - http://www.slideshare.net/toff63/compojure]     
       - 5. Jackson - Midje     [http://vimeo.com/32154926 - http://www.slideshare.net/cyber_jso/clojure-functions-midje] 
       - 6. Jose    - ClojureQL [http://vimeo.com/32157079 - http://www.slideshare.net/jeporto/clojureql-10170609]      
 
@@ -165,6 +165,9 @@ http://www.webnoir.org/
 ClojureQL (databse queries through elegant clojure expressions)
 http://www.clojureql.org/
 
+Oyako (Yet another thin layer between an SQL database and Clojur)
+https://github.com/briancarper/oyako
+
 fountain-jdbc(Clojure wrapper for Spring's JDBC)
 https://bitbucket.org/kumarshantanu/fountain-jdbc/src
 
@@ -179,6 +182,9 @@ https://github.com/cgrand/moustache
 
 Conjure (A Rails like framework for Clojure)
 https://github.com/macourtney/Conjure
+
+Gaka (A CSS-generating library for Clojure)
+https://github.com/briancarper/gaka
 
 clj-json (Fast JSON encoding and decoding for Clojure via the Jackson library)
 https://github.com/mmcgrana/clj-json
