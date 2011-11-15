@@ -1,0 +1,6 @@
+@diego_pacheco -> http://www.slideshare.net/diego.pacheco/clojure-functions-v 
+@alepoletto    -> 
+@toff63        ->  
+@jefersonm     ->  
+@jpcuervo      -> http://www.slideshare.net/jeporto/3-clojure-functions
+@cyber_jso     ->  

@@ -27,6 +27,51 @@ Whats Next ?
     - 10-20min Retrospective
        - wrap up good and things to improve on the group and LDC.	
 	   
+Purpose:
+--------
+
+This group is focused on learning Clojure. Our goal is create a small Java BANK system that calls
+some clojure functions to do some math processing with huge concurrency using STM.
+
+WHY Clojure ?
+-------------
+
+- Java has lots and lots synatx obesity
+- OOP is not the holly grail and don't awnser all questions
+- Clojure works really well with concurrency, read STM
+- Clojure you have one function for 10 types of data, java you have 10 to 10
+- Clojure is Functional, like LISP BUT much better
+- Clojrue Runs on the JVM, so you can use all java frameworks like Spring, Hibernate, etc...
+- Work with Clojrue will make you a better java developer
+- Open your mind, new paradigms
+- Clojure enables you think more about the problemn rather than in the syntax, frameworks, JEE, other heavy craps...
+- Twitter is using Clojure in production
+- Horoku supports Clojures at the CLOUD => http://blog.heroku.com/archives/2011/7/5/clojure_on_heroku/
+
+More... Read it here: http://clojure.org/rationale
+
+Frequency:
+----------
+
+2 in 2 weeks, 2h per meetup, mondays 15:00 to 17:00.
+
+CREW:
+-----
+
+Facilitator   : @diego_pacheco
+Co-Facilitator: @alepoletto
+Members       : @jefersonm, @toff63, @jpcuervo, @cyber_jso, @Andre_Mayer, Rafael Salermo                
+
+Past Members
+------------
+
+Ex-Members: @vanessarspoa(03/10/2011), @beto_zi(10/10/2011)
+
+PHOTOS:
+-------
+
+http://www.flickr.com/photos/diego-pacheco/sets/72157627493253341/
+
 History
 -------
 
@@ -73,51 +118,6 @@ History
 	- Meet everybody
 	- Discuss what and how we gonna do it
 	- Talk about Clojure in General
-	
-Purpose:
---------
-
-This group is focused on learning Clojure. Our goal is create a small Java BANK system that calls
-some clojure functions to do some math processing with huge concurrency using STM.
-
-WHY Clojure ?
--------------
-
-- Java has lots and lots synatx obesity
-- OOP is not the holly grail and don't awnser all questions
-- Clojure works really well with concurrency, read STM
-- Clojure you have one function for 10 types of data, java you have 10 to 10
-- Clojure is Functional, like LISP BUT much better
-- Clojrue Runs on the JVM, so you can use all java frameworks like Spring, Hibernate, etc...
-- Work with Clojrue will make you a better java developer
-- Open your mind, new paradigms
-- Clojure enables you think more about the problemn rather than in the syntax, frameworks, JEE, other heavy craps...
-- Twitter is using Clojure in production
-- Horoku supports Clojures at the CLOUD => http://blog.heroku.com/archives/2011/7/5/clojure_on_heroku/
-
-More... Read it here: http://clojure.org/rationale
-
-Frequency:
-----------
-
-2 in 2 weeks, 2h per meetup, mondays 15:00 to 17:00.
-
-CREW:
------
-
-Facilitator   : @diego_pacheco
-Co-Facilitator: @alepoletto
-Members       : @jefersonm, @toff63, @jpcuervo, @cyber_jso, @Andre_Mayer, Rafael Salermo                
-
-Past Members
-------------
-
-Ex-Members: @vanessarspoa(03/10/2011), @beto_zi(10/10/2011)
-
-PHOTOS:
--------
-
-http://www.flickr.com/photos/diego-pacheco/sets/72157627493253341/
 
 Resources:
 ----------
