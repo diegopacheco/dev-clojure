@@ -15,9 +15,9 @@ Whats Next ?
        - 5. Jackson   - clojurescript
        - 6. Jose      - korma
        - 7. Shooter   - clj-http
-       - 8. Shooter   - fountain-jdbc 
-	   - 9. Salermo   - monotony
-	   - 10. Salermo  - enlive  		   
+       - 8. Shooter   - fountain-jdbc
+       - 9. Salermo   - monotony
+       - 10. Salermo  - enlive  		   
     - 1h Fishbowl Conversation
        - Is Clojrue ready ?
        - It worth while studyng and using?
@@ -39,7 +39,7 @@ History
        - Dont do functions that the others already presented
     - Lighting Talks on Clojure Eco-System (5 min eahc presentation - To be recorded)
        - 1. Diego    - leiningen     [http://www.slideshare.net/diego.pacheco/leiningen]
-       - 2. Diego    - Ring	         [http://www.slideshare.net/diego.pacheco/ring-10170582]   
+       - 2. Diego    - Ring          [http://www.slideshare.net/diego.pacheco/ring-10170582]   
        - 3. Poletto  - hiccup        []
        - 4. Frances  - Compojure     []     
        - 5. Jackson  - Midje         [] 
