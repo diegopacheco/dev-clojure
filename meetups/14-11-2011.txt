@@ -1,5 +1,5 @@
 @diego_pacheco -> http://www.slideshare.net/diego.pacheco/clojure-functions-v
-@alepoletto    -> 
+@alepoletto    -> http://www.slideshare.net/AlexandrePoletto/ldc-5
 @toff63        -> http://www.slideshare.net/toff63/clojure-ldc-5 https://github.com/toff63/Sandbox/tree/master/clojure/compojure/hello-www
 @jpcuervo      -> http://www.slideshare.net/jeporto/3-clojure-functions
 @cyber_jso     -> http://www.slideshare.net/toff63/clojure-ldc-5
