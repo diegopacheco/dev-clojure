@@ -25,6 +25,7 @@ DEV Clojure
        - Is FP the Future? How is the market/it industry now? <br />
     - 10-20min Retrospective <br />
        - wrap up good and things to improve on the group and LDC. <br />	
+	   - Result: https://github.com/diegopacheco/dev-clojure/blob/master/meetups/28-11-2011-retrospective.txt
 	   
 ## Purpose
 
