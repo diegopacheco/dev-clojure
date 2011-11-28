@@ -7,16 +7,16 @@ DEV Clojure
     - 28/11/2011 - 15:00 to 17:00 <br />
 - What is about ?  <br />
     - Lighting Talks on Clojure Eco-System (5 min eahc presentation - To be recorded) <br />
-       - 1. Jeferson  - clojure-twitter <br />
-       - 2. Poletto   - congomongo <br />
-       - 3. Frances   - borneo <br />
-       - 4. Jeferson  - noir <br />
-       - 5. Jackson   - clojurescript <br />
-       - 6. Jose      - korma <br />
+       - 1. Poletto   - congomongo http://www.slideshare.net/AlexandrePoletto/congomongo <br />
+       - 2. Frances   - borneo http://www.slideshare.net/toff63/borneo-10344322 <br />
+       - 3. Jeferson  - noir <br />
+	   - 4. Jeferson  - clojure-twitter <br />
+       - 5. Jackson   - clojurescript http://www.slideshare.net/cyber_jso/presentation-about-closurescript-fraemework-10361316 <br />
+       - 6. Jose      - korma http://www.slideshare.net/jeporto/korma <br />
        - 7. Shooter   - clj-http <br />
        - 8. Shooter   - fountain-jdbc <br />
-       - 9. Salermo   - monotony <br />
-       - 10. Salermo  - enlive <br />   
+       - 9. Salermo   - monotony N/A <br />
+       - 10. Salermo  - enlive   N/A <br />   
     - 1h Fishbowl Conversation <br />
        - Is Clojrue ready ? <br />
        - It worth while studyng and using? <br />
