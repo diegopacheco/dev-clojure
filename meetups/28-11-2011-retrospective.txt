@@ -1,0 +1,27 @@
+Positive:
+=========
+
+* Everybody study one subject and present to everybody
+(last lighting talks) about the ecosystem.
+* The main theme: Clojure Language
+* This LDC was very productive, we learn a lot, and produce lots 
+of good materials. 
+* Diego organized LDC very well
+* Site & Github  
+* LDC helped to open the mind and bring new ideas about the future
+* 4Clojure brings healthy competition
+* Lighting talsk was nice
+* Clojure improved my java code :-)
+* Folks that stay enjoyed and made good usage of the group
+* Folks help each other in hard tough moments
+* Discussions outside of the LDC meetups
+* learn more than one language, open your mind, MMA for code.
+
+To-Improve:
+===========
+
+* Lack of commitment of people outside of the TR-Team(People who left)
+* Shit, LDC should not end now because is cool.
+* Collaborative project, everybody coding together in the same code base.  
+* More time, maybe 2 months
+* Ask more questions 
