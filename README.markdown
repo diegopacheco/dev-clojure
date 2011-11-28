@@ -54,8 +54,8 @@ http://www.flickr.com/photos/diego-pacheco/sets/72157627493253341/
 	   - 4. Jeferson  - clojure-twitter http://www.slideshare.net/jefersonm/clojure-twitter <br />
        - 5. Jackson   - clojurescript http://www.slideshare.net/cyber_jso/presentation-about-closurescript-fraemework-10361316 <br />
        - 6. Jose      - korma http://www.slideshare.net/jeporto/korma <br />
-       - 7. Shooter   - clj-http <br />
-       - 8. Shooter   - fountain-jdbc <br />
+       - 7. Shooter   - clj-http http://www.slideshare.net/andre_mayer/clj-http <br />
+       - 8. Shooter   - fountain-jdbc http://www.slideshare.net/andre_mayer/clojure-fountain-jdbc <br />
        - 9. Salermo   - monotony N/A <br />
        - 10. Salermo  - enlive   N/A <br />   
     - 1h Fishbowl Conversation <br />
