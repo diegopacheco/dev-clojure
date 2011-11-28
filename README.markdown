@@ -9,8 +9,8 @@ DEV Clojure
     - Lighting Talks on Clojure Eco-System (5 min eahc presentation - To be recorded) <br />
        - 1. Poletto   - congomongo http://www.slideshare.net/AlexandrePoletto/congomongo <br />
        - 2. Frances   - borneo http://www.slideshare.net/toff63/borneo-10344322 <br />
-       - 3. Jeferson  - noir <br />
-	   - 4. Jeferson  - clojure-twitter <br />
+       - 3. Jeferson  - noir http://www.slideshare.net/jefersonm/clojure-noir-10369474 <br />
+	   - 4. Jeferson  - clojure-twitter http://www.slideshare.net/jefersonm/clojure-twitter <br />
        - 5. Jackson   - clojurescript http://www.slideshare.net/cyber_jso/presentation-about-closurescript-fraemework-10361316 <br />
        - 6. Jose      - korma http://www.slideshare.net/jeporto/korma <br />
        - 7. Shooter   - clj-http <br />
