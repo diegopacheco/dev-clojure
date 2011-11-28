@@ -1,32 +1,8 @@
 DEV Clojure
 ===========
 
-## Whats Next ?
+We finish our work for 2011! Maybe we get back in 2012...
 
-- FINAL Meetup: <br />
-    - 28/11/2011 - 15:00 to 17:00 <br />
-- What is about ?  <br />
-    - Lighting Talks on Clojure Eco-System (5 min eahc presentation - To be recorded) <br />
-       - 1. Poletto   - congomongo http://www.slideshare.net/AlexandrePoletto/congomongo <br />
-       - 2. Frances   - borneo http://www.slideshare.net/toff63/borneo-10344322 <br />
-       - 3. Jeferson  - noir http://www.slideshare.net/jefersonm/clojure-noir-10369474 <br />
-	   - 4. Jeferson  - clojure-twitter http://www.slideshare.net/jefersonm/clojure-twitter <br />
-       - 5. Jackson   - clojurescript http://www.slideshare.net/cyber_jso/presentation-about-closurescript-fraemework-10361316 <br />
-       - 6. Jose      - korma http://www.slideshare.net/jeporto/korma <br />
-       - 7. Shooter   - clj-http <br />
-       - 8. Shooter   - fountain-jdbc <br />
-       - 9. Salermo   - monotony N/A <br />
-       - 10. Salermo  - enlive   N/A <br />   
-    - 1h Fishbowl Conversation <br />
-       - Is Clojrue ready ? <br />
-       - It worth while studyng and using? <br />
-       - Clojure Future? Clojure Adoption? <br />
-       - How hard is functional programing for oop developers? <br />
-       - Is FP the Future? How is the market/it industry now? <br />
-    - 10-20min Retrospective <br />
-       - wrap up good and things to improve on the group and LDC. <br />	
-	   - Result: https://github.com/diegopacheco/dev-clojure/blob/master/meetups/28-11-2011-retrospective.txt
-	   
 ## Purpose
 
 This group is focused on learning Clojure. Our goal is create a small Java BANK system that calls <br />
@@ -68,6 +44,30 @@ http://www.flickr.com/photos/diego-pacheco/sets/72157627493253341/
 
 ## History
 
+* FINAL Meetup: <br />
+    - 28/11/2011 - 15:00 to 17:00 <br />
+- What is about ?  <br />
+    - Lighting Talks on Clojure Eco-System (5 min eahc presentation - To be recorded) <br />
+       - 1. Poletto   - congomongo http://www.slideshare.net/AlexandrePoletto/congomongo <br />
+       - 2. Frances   - borneo http://www.slideshare.net/toff63/borneo-10344322 <br />
+       - 3. Jeferson  - noir http://www.slideshare.net/jefersonm/clojure-noir-10369474 <br />
+	   - 4. Jeferson  - clojure-twitter http://www.slideshare.net/jefersonm/clojure-twitter <br />
+       - 5. Jackson   - clojurescript http://www.slideshare.net/cyber_jso/presentation-about-closurescript-fraemework-10361316 <br />
+       - 6. Jose      - korma http://www.slideshare.net/jeporto/korma <br />
+       - 7. Shooter   - clj-http <br />
+       - 8. Shooter   - fountain-jdbc <br />
+       - 9. Salermo   - monotony N/A <br />
+       - 10. Salermo  - enlive   N/A <br />   
+    - 1h Fishbowl Conversation <br />
+       - Is Clojrue ready ? <br />
+       - It worth while studyng and using? <br />
+       - Clojure Future? Clojure Adoption? <br />
+       - How hard is functional programing for oop developers? <br />
+       - Is FP the Future? How is the market/it industry now? <br />
+    - 10-20min Retrospective <br />
+       - wrap up good and things to improve on the group and LDC. <br />	
+	   - Result: https://github.com/diegopacheco/dev-clojure/blob/master/meetups/28-11-2011-retrospective.txt
+	   
 * 14/11/2011 - 15:00 to 17:00 <br />
 - What is about ? <br />
     - 3 new Functions from clojure.core(for each member) <br />
