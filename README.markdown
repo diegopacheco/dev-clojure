@@ -24,6 +24,14 @@ some clojure functions to do some math processing with huge concurrency using ST
 
 More... Read it here: http://clojure.org/rationale <br />
 
+## Videos:
+
+http://vimeo.com/album/1749782
+
+## PHOTOS:
+
+http://www.flickr.com/photos/diego-pacheco/sets/72157627493253341/
+
 ## Frequency
 
 2 in 2 weeks, 2h per meetup, mondays 15:00 to 17:00.
@@ -37,10 +45,6 @@ Members       : @jefersonm, @toff63, @jpcuervo, @cyber_jso, @Andre_Mayer, Rafael
 ## Past Members
 
 Ex-Members: @vanessarspoa(03/10/2011), @beto_zi(10/10/2011)
-
-## PHOTOS:
-
-http://www.flickr.com/photos/diego-pacheco/sets/72157627493253341/
 
 ## History
 
